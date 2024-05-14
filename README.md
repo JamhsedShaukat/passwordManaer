@@ -16,9 +16,8 @@ Welcome to the Password Manager project! This application offers a secure soluti
 ## Technologies Used
 
 - Frontend:
-  - HTML
-  - CSS
-  - JavaScript
+  React.js
+  Tailwind css
   
 - Backend:
   - Express.js
